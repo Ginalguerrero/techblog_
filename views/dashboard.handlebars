@@ -1,0 +1,14 @@
+
+<h3 class="text-center mb-5">Dashboard</h3>
+
+<div class="btn btn-primary justify-content-center float-end mb-5" id="add-post">Create a new post</div>
+<div class="clearfix"></div>
+{{#each posts as |post| }}
+<div class="panel d-flex justify-content-between mb-2 post-button border rounded p-3" data-post-id = {{post.id}}>
+    <h3 class="title mb-1"><a class="dashboard-title" href="/dashboard/posts/{{id}}">{{post.name}}</a></h3>
+     
+    <span>{{format_date post.date_created}}</span>
+</div>
+{{/each}}
+
+<script src="/js/dashboard.js"></script>

@@ -1,0 +1,20 @@
+
+{{> post-details post}}
+{{#if logged_in}}
+<div class="mt-5 mb-2">
+<h3 >Add A Comment </h3>
+<div class="form-outline mb-2">
+    <input type="input" id="comment-text" class="form-control form-control-lg border border-primary" placeholder="Add Comment"/>
+</div>
+<button type="button" class="btn btn-primary col-2 float-end" id="add-comment">Submit</button>
+<div class="clearfix"></div>
+<div class="comment-block mb-5">
+<h3 class="">Comments</h3>
+<script src="/js/add-comment.js"></script>
+
+{{/if}}
+{{#each comments as |comment| }}
+{{> comment}}
+{{/each}}
+ 
+</div>
