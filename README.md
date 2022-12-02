@@ -12,6 +12,7 @@
 ``express sessions``
 
 ## Demo
+![Untitled_ Dec 2, 2022 3_01 PM](https://user-images.githubusercontent.com/112473624/205410695-5db2ebb4-00c0-4579-ba86-ccecd1e0ceaa.gif)
 
 
 ## Code snippet:
