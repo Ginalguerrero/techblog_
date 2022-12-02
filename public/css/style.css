@@ -1,0 +1,25 @@
+.login-container{
+    max-width: 600px;
+    margin: auto;
+}
+.form-label{font-weight: bold;}
+.btn-link{ text-decoration: none; }
+.btn-link:hover{ text-decoration: underline; }
+.item  a {text-decoration: none;}
+.item .title a { font-size: 22px; text-decoration: none; }
+.item .extrainfo{
+    font-size: 14px;
+    
+}
+.item .date-title{ font-weight: bold;}
+.item.item-loop:last-child{border-bottom: 0!important;}
+
+.dashboard-title{
+    text-decoration: none;
+    
+}
+
+.dashboard-title:hover{
+    text-decoration: underline;
+    
+}
