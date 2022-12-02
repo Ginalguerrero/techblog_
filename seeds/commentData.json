@@ -1,0 +1,32 @@
+[
+    {
+      "text": "Nullam finibus, massa in laoreet venenatis, purus ligula vulputate sapien, vitae lacinia turpis dui eu mauris.",
+      "post_id": 1,
+      "user_id": 3
+    },
+    {
+        "text": "mi commodo dignissim. Nullam efficitur urna sed luctus",
+        "post_id": 3,
+        "user_id": 3
+      },
+    {
+      "text": "Donec non quam laoreet lorem elementum porta. Sed laoreet ligula varius iaculis maximus.",
+      "post_id": 2,
+      "user_id": 2
+    },
+    {
+        "text": "Maecenas sit amet tristique nulla.",
+        "post_id": 1,
+        "user_id": 2
+      },
+    {
+      "text": "Morbi bibendum lectus tellus",
+      "post_id": 3,
+      "user_id": 1
+    },
+    {
+        "text": "Etiam consectetur cursus purus eu eleifend. Nam a ipsum sed ipsum dapibus finibus non ultricies lorem",
+        "post_id": 2,
+        "user_id": 1
+    }
+  ]
