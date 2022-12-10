@@ -16,7 +16,7 @@
 ![Untitled_ Dec 2, 2022 3_01 PM](https://user-images.githubusercontent.com/112473624/205404642-0c20962c-9c97-416c-a69e-66e1cf4cac5b.gif)
 
 ## Deployed link 
-
+https://blogtechn.herokuapp.com/
 
 ## Code snippet:
 ``<div class="item mb-5 pb-5 border-bottom item-loop">
