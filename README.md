@@ -18,20 +18,3 @@
 ## Deployed link 
 https://blogtechn.herokuapp.com/
 
-## Code snippet:
-``<div class="item mb-5 pb-5 border-bottom item-loop">
-				    <div class="row g-3 g-xl-0">
-					    <div class="col">
-						    <h3 class="title mb-1"><a class="text-link" href="/posts/{{id}}">{{name}}</a></h3>
-						    <div class="meta mb-1 extrainfo">
-                  <span class="date"><span class="date-title">Published on</span> {{{format_date date_created}}} 
-                  <span class="date-title">by</span>
-                  </span>
-                  <span class="time">{{user.name}}</span>
-                </div>
-						    <div class="intro">{{trimString description 0 200}}</div>
-						    <a class="text-link d-block mt-3" href="/posts/{{id}}">Read more &rarr;</a>
-					    </div><!--//col-->
-				    </div><!--//row-->
-			    </div><!--//item-->``
-          
